@@ -1,4 +1,4 @@
-# OCR_Technology
+# Warning
 ### 1. Create a Virtual Environment
 
 First, create a virtual environment. You can use `venv` or any other virtual environment tool of your choice.
